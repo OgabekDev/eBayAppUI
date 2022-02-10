@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EBayAppUI</string>
+    <string name="search_for_anything">Search for Anything</string>
+    <string name="saved">Saved</string>
+    <string name="categories">Categories</string>
+    <string name="deals">Deals</string>
+    <string name="up_to_70_off_bedding_and_bath">Up to 70% off bedding and bath</string>
+    <string name="stock_yourlinen_closet_with_towels_sheetsm_and_more">Stock yourlinen closet with towels. sheetsm and more</string>
+    <string name="freshen_up">Freshen up</string>
+    <string name="the_right_parts_at_the_right_prices">The right parts at the right prices</string>
+    <string name="everything_you_need_for_your_vehicle">Everything you need for your vehicle</string>
+    <string name="lets_ride">Lets\' ride!</string>
+    <string name="up_to_60_off_your_favorites">Up to 60% off your favorites</string>
+    <string name="refurbished_phones_from_trusted_sellers_with_a_warranty">Refurbished phones from trusted sellers with a warranty</string>
+    <string name="get_them_now">Get them now</string>
+    <string name="apple_watch">Apple Watch</string>
+</resources>
